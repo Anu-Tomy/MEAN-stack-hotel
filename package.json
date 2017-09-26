@@ -4,6 +4,7 @@
   "description": "Udemy MEAN Hotel tutorial",
   "main": "app.js",
   "scripts": {
+    "start": "node app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -18,5 +19,11 @@
   "bugs": {
     "url": "https://github.com/Anu-Tomy/MEAN-stack-hotel/issues"
   },
-  "homepage": "https://github.com/Anu-Tomy/MEAN-stack-hotel#readme"
+  "homepage": "https://github.com/Anu-Tomy/MEAN-stack-hotel#readme",
+  "dependencies": {
+    "express": "^4.15.5"
+  },
+  "devDependencies": {
+    "mocha": "^3.5.3"
+  }
 }
