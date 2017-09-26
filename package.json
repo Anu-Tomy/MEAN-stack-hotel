@@ -1,0 +1,22 @@
+{
+  "name": "mean-stack-hotel",
+  "version": "1.0.0",
+  "description": "Udemy MEAN Hotel tutorial",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Anu-Tomy/MEAN-stack-hotel.git"
+  },
+  "keywords": [
+    "MEAN"
+  ],
+  "author": "Full Stack Training by Anu Tomy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Anu-Tomy/MEAN-stack-hotel/issues"
+  },
+  "homepage": "https://github.com/Anu-Tomy/MEAN-stack-hotel#readme"
+}
