@@ -21,9 +21,11 @@
   },
   "homepage": "https://github.com/Anu-Tomy/MEAN-stack-hotel#readme",
   "dependencies": {
+    "body-parser": "^1.18.2",
     "express": "^4.15.5"
   },
   "devDependencies": {
-    "mocha": "^3.5.3"
+    "mocha": "^3.5.3",
+    "nodemon": "^1.12.1"
   }
 }
